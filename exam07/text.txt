@@ -1,0 +1,5 @@
+abcdefgggggggghhhhilmnooooopqr
+5     249     253 3   252  2  
+
+abcdefgggggggghhhhilmnoooooooo
+5     249     253 3   249     
