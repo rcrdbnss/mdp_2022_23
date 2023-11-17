@@ -1,0 +1,4 @@
+c example_01.txt compressed.bin
+c example_02.txt compressed.bin
+c bibbia.txt compressed.bin
+d compressed.bin decompressed.txt
